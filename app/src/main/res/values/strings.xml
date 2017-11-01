@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fragments and Service</string>
+    <string name="btn1">Lavander</string>
+    <string name="btn2">Emerald</string>
+    <string name="btn3">Citric</string>
+    <string name="btn4">Coral</string>
+    <string name="edit1">Lavender: #CE93D8</string>
+    <string name="edit2">Emerald: #4DB6AC</string>
+    <string name="edit3">Citric: #FFF9C4</string>
+    <string name="edit4">Coral: #EF9A9A</string>
+    <string name="edit5">Peach: #FFAB91</string>
+    <string name="edit6">Mint: #A7FFEB </string>
+    <string name="btn6">Peach</string>
+    <string name="btn5">Mint</string>
+    <string name="text_view">You choice color</string>
+    <string name="login">Login</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second name</string>
+</resources>
